@@ -4,6 +4,8 @@ if calificacion < 700:
     print("No obtuviste el puntaje minimo aprobatorio")
 elif calificacion > 1000:
     print("No mientas")
+elif calificacion == 700:
+    print("Pansazoo!")
 else:
     print("Felicidades, aprobaste el examen de certificación")
 
