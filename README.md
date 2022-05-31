@@ -12,4 +12,4 @@ En este curso aprenderas a programar en python.
 
 -----------------------------------------------------------------------------
 
-![Logo de Python](imagenes\logopython.png)
+![Logo de Python](https://github.com/rvjosecarlos/curso-basico-python/blob/main/imagenes/logopython.png)
